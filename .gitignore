@@ -1,0 +1,7 @@
+# Compiled Files
+*.class
+
+# Editor specific files
+.idea
+*.swp
+*.iml
